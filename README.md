@@ -17,7 +17,7 @@ I'm a B.Tech student in Computer Science and Engineering with a specialization i
 
 ## 📈 My GitHub stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravish-kumar-tiwari&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Newton2025&show_icons=true&hide_title=true)
 
 ## 🌐 Find me on
 
