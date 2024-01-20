@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('link_to_your_background_image'); background-size: cover; color: white; padding: 50px;">
+<div align="center" style="background-image: url('Banner.png'); background-size: cover; color: white; padding: 50px;">
 
 # Hi there, I'm Ravish Kumar Tiwari 👋
 
