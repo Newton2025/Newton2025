@@ -1,6 +1,6 @@
-# Hi there, I'm Ravish Kumar Tiwari 👋
+<div align="center" style="background-image: url('link_to_your_background_image'); background-size: cover; color: white; padding: 50px;">
 
-![Banner](Banner.png)
+# Hi there, I'm Ravish Kumar Tiwari 👋
 
 I'm a B.Tech student in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning. I love to learn new things and solve problems. I have experience in web development, data analysis, and machine learning. I'm currently working on some cool projects using React, Flask, and TensorFlow.
 
@@ -17,8 +17,10 @@ I'm a B.Tech student in Computer Science and Engineering with a specialization i
 
 ## 📈 My GitHub stats
 
-!ravish's GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravish-kumar-tiwari&show_icons=true&hide_title=true)
 
 ## 🌐 Find me on
 
-[LinkedIn](https://www.linkedin.com/in/ravish-kumar-tiwari-37b030231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](RKTWorld.netlify.com)
+[LinkedIn](https://www.linkedin.com/in/ravish-kumar-tiwari-37b030231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://RKTWorld.netlify.com)
+
+</div>
