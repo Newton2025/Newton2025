@@ -6,17 +6,15 @@ I'm a B.Tech student in Computer Science and Engineering with a specialization i
 
 ## 🛠️ My skills
 
+#Frontend Development: HTML, CSS, JavaScript
 
-| Frontend Development         | Backend Development                            | Frameworks and Libraries                                     | Data Analysis and Visualization                  | Database Management   |
-|------------------------------|-------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------|-----------------------|
-| HTML                         | Python (also used for general programming)     | React (for frontend development)                              | NumPy (for numerical computing)                  | SQL (for database management) |
-| CSS                          | Flask                                           | Bootstrap (for frontend development)                          | Pandas (for data manipulation and analysis)      |                       |
-| JavaScript                   | Java                                            | TensorFlow (for machine learning)                             | Matplotlib (for data visualization)              |                       |
-|                              |                                                 | PyTorch (for machine learning)                                 | Seaborn (for statistical data visualization)     |                       |
-|                              |                                                 | Scikit-learn (for machine learning)                            |                                                  |                       |
-|                              |                                                 | Keras (for deep learning)                                      |                                                  |                       |
-|                              |                                                 | OpenCV (for computer vision)                                   |                                                  |                       |
-|                              |                                                 | NLTK (for natural language processing)                         |                                                  |                       |
+#Backend Development: Python (also used for general programming), Flask, Java
+
+#Frameworks and Libraries: React (for frontend development), Bootstrap (for frontend development), TensorFlow (for machine learning), PyTorch (for machine learning), Scikit-learn (for machine learning), Keras (for deep learning), OpenCV (for computer vision), NLTK (for natural language processing)
+
+#Data Analysis and Visualization: NumPy (for numerical computing), Pandas (for data manipulation and analysis), Matplotlib (for data visualization), Seaborn (for statistical data visualization)
+
+#Database Management: SQL (for database management)            
 
 
 ## 📈 My GitHub stats
