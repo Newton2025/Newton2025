@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('Banner.png'); background-size: cover; color: white; padding: 50px;">
+<div align="center" style="background-image: url('Banner.png'); background-size: cover; color:#5B86ES; padding: 50px;">
 
 # Hi there, I'm Ravish Kumar Tiwari 👋
 
@@ -14,10 +14,6 @@ I'm a B.Tech student in Computer Science and Engineering with a specialization i
 | **Data Analysis and Visualization** | NumPy (for numerical computing), Pandas (for data manipulation and analysis), Matplotlib (for data visualization), Seaborn (for statistical data visualization) |
 | **Database Management**    | SQL (for database management)                 |
 
-
-## 📈 My GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Newton2025&show_icons=true&hide_title=true)
 
 ## 🌐 Find me on
 
