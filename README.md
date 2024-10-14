@@ -1,4 +1,4 @@
-<div align="center" style="background-image: url('Banner.png'); background-size: cover; color:#5B86ES; padding: 50px;">
+![image](https://github.com/user-attachments/assets/76fada26-4121-447f-86b4-614346ea586f)<div align="center" style="background-image: url(''); background-size: cover; color:#5B86ES; padding: 50px;">
 
 # Hi there, I'm Ravish Kumar Tiwari 👋
 
@@ -8,15 +8,15 @@ I'm a B.Tech student in Computer Science and Engineering with a specialization i
 
 | Category                   | Tools                                         |
 |----------------------------|-----------------------------------------------|
-| **Frontend Development**   | HTML, CSS, JavaScript, Tkinter (for building GUI applications in Python) |
-| **Backend Development**    | Python (also used for general programming), Flask, Java |
-| **Frameworks and Libraries**| React (for frontend development), Bootstrap (for frontend development), TensorFlow (for machine learning), PyTorch (for machine learning), Scikit-learn (for machine learning), Keras (for deep learning), OpenCV (for computer vision), NLTK (for natural language processing), Prolog |
-| **Data Analysis and Visualization** | NumPy (for numerical computing), Pandas (for data manipulation and analysis), Matplotlib (for data visualization), Seaborn (for statistical data visualization) |
-| **Database Management**    | SQL (for database management)                 |
-
+| **Programming Languages**   | Python, Java, JavaScript
+| **Web Technologies**    | Html,Css, Bootstrap,React,Flask,Spring, Spring Boot |
+| **Machine Learning And AI**| TensorFlow, PyTorch, Scikit-learn , Keras, OpenCV, NLTK, Prolog |
+| **Data Analysis and Visualization** | NumPy, Pandas , Matplotlib , Seaborn |
+| **Database Management**    | MySQL, Oracle Database     |
+| **Tools**    | Git, PowerBi     |
 
 ## 🌐 Find me on
 
-[LinkedIn](https://www.linkedin.com/in/ravish-kumar-tiwari-37b030231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://RKTWorld.netlify.com)
+[LinkedIn](https://www.linkedin.com/in/ravish-kumar-tiwari-37b030231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Portfolio](https://rktportfolio.me/)
 
 </div>
