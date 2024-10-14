@@ -1,5 +1,5 @@
 <div align="center" style="color:#5B86E5; padding: 50px;">
-    <img src="./Banner.png" alt="Banner" style="width: 100%; height: auto;">
+    <img src="./github banner.gif" alt="Banner" style="width: 100%; height: auto;">
 
 # Hi there, I'm Ravish Kumar Tiwari 👋
 
