@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/76fada26-4121-447f-86b4-614346ea586f)<div align="center" style="background-image: url(''); background-size: cover; color:#5B86ES; padding: 50px;">
+<div align="center" style="color:#5B86E5; padding: 50px;">
+    <img src="./Banner.png" alt="Banner" style="width: 100%; height: auto;">
 
 # Hi there, I'm Ravish Kumar Tiwari 👋
 
@@ -8,12 +9,12 @@ I'm a B.Tech student in Computer Science and Engineering with a specialization i
 
 | Category                   | Tools                                         |
 |----------------------------|-----------------------------------------------|
-| **Programming Languages**   | Python, Java, JavaScript
-| **Web Technologies**    | Html,Css, Bootstrap,React,Flask,Spring, Spring Boot |
-| **Machine Learning And AI**| TensorFlow, PyTorch, Scikit-learn , Keras, OpenCV, NLTK, Prolog |
-| **Data Analysis and Visualization** | NumPy, Pandas , Matplotlib , Seaborn |
-| **Database Management**    | MySQL, Oracle Database     |
-| **Tools**    | Git, PowerBi     |
+| **Programming Languages**   | Python, Java, JavaScript                     |
+| **Web Technologies**        | Html, CSS, Bootstrap, React, Flask, Spring, Spring Boot |
+| **Machine Learning And AI** | TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, NLTK, Prolog |
+| **Data Analysis and Visualization** | NumPy, Pandas, Matplotlib, Seaborn     |
+| **Database Management**     | MySQL, Oracle Database                       |
+| **Tools**                   | Git, PowerBi                                 |
 
 ## 🌐 Find me on
 
