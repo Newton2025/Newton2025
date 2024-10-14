@@ -1,4 +1,5 @@
-<div align="center" style="background: url('./Banner.png') no-repeat center center; background-size: cover; color:#5B86E5; padding: 50px;">
+<div align="center" style="color:#5B86E5; padding: 50px;">
+    <img src="./Banner.png" alt="Banner" style="width: 100%; height: auto;">
 
 # Hi there, I'm Ravish Kumar Tiwari 👋
 
