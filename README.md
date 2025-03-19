@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github-banner.gif" alt="Banner" width="100%">
+<img src="./github-banner.gif" alt="Banner" width="100%">
 
 # 🚀 Hi there, I'm **Ravish Kumar Tiwari** 👋  
 
@@ -26,11 +26,9 @@
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Newton2025&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Newton2025&theme=radical" alt="GitHub Streak" width="50%"/>
 </p>
-
-**🔹 Note:** Replace `YourGitHubUsername` with your actual **GitHub username** in the links above.
 
 ---
 
@@ -39,6 +37,6 @@
 | 🌍 **Social Media** | 📬 **Reach Out** |
 |-----------------|----------------|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravish-kumar-tiwari-37b030231) | [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rktportfolio.me/) |
-| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername) | 📩 Email: [Click Here](mailto:your-email@example.com) |
+| [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Newton2025) | 📩 Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravish.tiwari2024@gmail.com) |
 
 </div>
