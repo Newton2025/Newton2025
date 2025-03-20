@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Newton2025&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Newton2025&theme=radical" alt="GitHub Streak" width="50%"/>
+  <img src="https://streak-stats.demolab.com/?user=Newton2025&theme=radical" alt="GitHub Streak" width="50%"/>
 </p>
 
 ---
