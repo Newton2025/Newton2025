@@ -12,10 +12,10 @@
 
 ## 🏆 **Achievements & Highlights**  
 
-- 🎖️ **Top-rated freelancer in AI/ML development**  
-- 🥇 **Built a full-stack chatbot without Spring Boot in Gradle**  
-- 🌟 **Completed multiple real-world projects in AI, ML, and Web Development**  
-- 🔥 **Active contributor to open-source projects**  
+ 🎖️ **Top-rated freelancer in AI/ML development**  
+ 🥇 **Built a full-stack chatbot without Spring Boot in Gradle**  
+ 🌟 **Completed multiple real-world projects in AI, ML, and Web Development**  
+ 🔥 **Active contributor to open-source projects**  
 
 ---
 
