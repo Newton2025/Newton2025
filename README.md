@@ -9,14 +9,12 @@
 🔍 **Exploring the world of technology with a passion for building innovative solutions**  
 
 ---
+
 ## 🏆 **Achievements & Highlights**  
 
 - 🎖️ **Top-rated freelancer in AI/ML development**  
-
 - 🥇 **Built a full-stack chatbot without Spring Boot in Gradle**  
-
 - 🌟 **Completed multiple real-world projects in AI, ML, and Web Development**  
-
 - 🔥 **Active contributor to open-source projects**  
 
 ---
@@ -42,6 +40,18 @@
 
 ---
 
+## ☕ **Support My Work**
+
+<a href="https://www.buymeacoffee.com/ravish_" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
+
+<br/>
+
+<img src="./bmc_qr.png" alt="Buy Me a Coffee QR" width="200"/>
+
+---
+
 ## 🎯 **Connect with Me!**  
 
 | 🌍 **Social Media** | 📬 **Reach Out** |
@@ -50,4 +60,5 @@
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Newton2025) | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravish.tiwari2024@gmail.com) |
 
 🔗 **Let's build something amazing together!** 🚀
+
 </div>
