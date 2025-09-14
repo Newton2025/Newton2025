@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github banner.gif" alt="Banner" width="100%">
+<img src="./Ravish Kumar Tiwari.png" alt="Banner" width="100%">
 
 # 🚀 Hi there, I'm **Ravish Kumar Tiwari** 👋  
 
